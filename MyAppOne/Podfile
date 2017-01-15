@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MyAppOne' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for MyAppOne
+
+pod 'AFNetworking', '~> 2.5'
+pod 'PayPal-iOS-SDK'
+pod 'GoogleAnalytics-iOS-SDK'
+#pod 'GoogleAnalytics'
+pod 'Parse'
+pod 'AWSiOSSDKv2'
+
+end

@@ -1,0 +1,193 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AWSAPIGateway (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSAutoScaling (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSCloudWatch (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSCognito (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSCognitoIdentityProvider (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSCore (2.4.16)
+  - AWSDynamoDB (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSEC2 (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSElasticLoadBalancing (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSiOSSDKv2 (2.4.16):
+    - AWSiOSSDKv2/AutoScaling (= 2.4.16)
+    - AWSiOSSDKv2/AWSAPIGateway (= 2.4.16)
+    - AWSiOSSDKv2/AWSCognito (= 2.4.16)
+    - AWSiOSSDKv2/AWSCognitoIdentityProvider (= 2.4.16)
+    - AWSiOSSDKv2/AWSCore (= 2.4.16)
+    - AWSiOSSDKv2/AWSIoT (= 2.4.16)
+    - AWSiOSSDKv2/AWSLambda (= 2.4.16)
+    - AWSiOSSDKv2/AWSLex (= 2.4.16)
+    - AWSiOSSDKv2/AWSMachineLearning (= 2.4.16)
+    - AWSiOSSDKv2/AWSPolly (= 2.4.16)
+    - AWSiOSSDKv2/AWSRekognition (= 2.4.16)
+    - AWSiOSSDKv2/AWSS3 (= 2.4.16)
+    - AWSiOSSDKv2/AWSSES (= 2.4.16)
+    - AWSiOSSDKv2/AWSSimpleDB (= 2.4.16)
+    - AWSiOSSDKv2/AWSSNS (= 2.4.16)
+    - AWSiOSSDKv2/AWSSQS (= 2.4.16)
+    - AWSiOSSDKv2/CloudWatch (= 2.4.16)
+    - AWSiOSSDKv2/DynamoDB (= 2.4.16)
+    - AWSiOSSDKv2/EC2 (= 2.4.16)
+    - AWSiOSSDKv2/ElasticLoadBalancing (= 2.4.16)
+    - AWSiOSSDKv2/Kinesis (= 2.4.16)
+    - AWSiOSSDKv2/MobileAnalytics (= 2.4.16)
+    - AWSiOSSDKv2/Pinpoint (= 2.4.16)
+  - AWSiOSSDKv2/AutoScaling (2.4.16):
+    - AWSAutoScaling (= 2.4.16)
+  - AWSiOSSDKv2/AWSAPIGateway (2.4.16):
+    - AWSAPIGateway (= 2.4.16)
+  - AWSiOSSDKv2/AWSCognito (2.4.16):
+    - AWSCognito (= 2.4.16)
+  - AWSiOSSDKv2/AWSCognitoIdentityProvider (2.4.16):
+    - AWSCognitoIdentityProvider (= 2.4.16)
+  - AWSiOSSDKv2/AWSCore (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSiOSSDKv2/AWSIoT (2.4.16):
+    - AWSIoT (= 2.4.16)
+  - AWSiOSSDKv2/AWSLambda (2.4.16):
+    - AWSLambda (= 2.4.16)
+  - AWSiOSSDKv2/AWSLex (2.4.16):
+    - AWSLex (= 2.4.16)
+  - AWSiOSSDKv2/AWSMachineLearning (2.4.16):
+    - AWSMachineLearning (= 2.4.16)
+  - AWSiOSSDKv2/AWSPolly (2.4.16):
+    - AWSPolly (= 2.4.16)
+  - AWSiOSSDKv2/AWSRekognition (2.4.16):
+    - AWSRekognition (= 2.4.16)
+  - AWSiOSSDKv2/AWSS3 (2.4.16):
+    - AWSS3 (= 2.4.16)
+  - AWSiOSSDKv2/AWSSES (2.4.16):
+    - AWSSES (= 2.4.16)
+  - AWSiOSSDKv2/AWSSimpleDB (2.4.16):
+    - AWSSimpleDB (= 2.4.16)
+  - AWSiOSSDKv2/AWSSNS (2.4.16):
+    - AWSSNS (= 2.4.16)
+  - AWSiOSSDKv2/AWSSQS (2.4.16):
+    - AWSSQS (= 2.4.16)
+  - AWSiOSSDKv2/CloudWatch (2.4.16):
+    - AWSCloudWatch (= 2.4.16)
+  - AWSiOSSDKv2/DynamoDB (2.4.16):
+    - AWSDynamoDB (= 2.4.16)
+  - AWSiOSSDKv2/EC2 (2.4.16):
+    - AWSEC2 (= 2.4.16)
+  - AWSiOSSDKv2/ElasticLoadBalancing (2.4.16):
+    - AWSElasticLoadBalancing (= 2.4.16)
+  - AWSiOSSDKv2/Kinesis (2.4.16):
+    - AWSKinesis (= 2.4.16)
+  - AWSiOSSDKv2/MobileAnalytics (2.4.16):
+    - AWSMobileAnalytics (= 2.4.16)
+  - AWSiOSSDKv2/Pinpoint (2.4.16):
+    - AWSPinpoint (= 2.4.16)
+  - AWSIoT (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSKinesis (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSLambda (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSLex (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSMachineLearning (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSMobileAnalytics (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSPinpoint (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSPolly (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSRekognition (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSS3 (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSSES (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSSimpleDB (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSSNS (2.4.16):
+    - AWSCore (= 2.4.16)
+  - AWSSQS (2.4.16):
+    - AWSCore (= 2.4.16)
+  - Bolts/Tasks (1.8.4)
+  - CardIO (5.4.1)
+  - GoogleAnalytics-iOS-SDK (3.12):
+    - GoogleAnalytics-iOS-SDK/Core (= 3.12)
+  - GoogleAnalytics-iOS-SDK/Core (3.12)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - PayPal-iOS-SDK (2.16.1):
+    - PayPal-iOS-SDK/CardIO (= 2.16.1)
+    - PayPal-iOS-SDK/Core (= 2.16.1)
+  - PayPal-iOS-SDK/CardIO (2.16.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.16.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - AWSiOSSDKv2
+  - GoogleAnalytics-iOS-SDK
+  - Parse
+  - PayPal-iOS-SDK
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  AWSAPIGateway: 49d48577724a9f53eda1e8c53411c1f1ebac3b7b
+  AWSAutoScaling: b659a202a145e89c212f11b889122545a663f5e8
+  AWSCloudWatch: 3653a840e267235722b350202e06185a976c3ba9
+  AWSCognito: 666dba6eb65ac27faad79e83febf25630913aefc
+  AWSCognitoIdentityProvider: 1c74bb819fc5f74a708a4a8e0be8b235a959ab86
+  AWSCore: 7c3c129991e6387bcbad7132bc3661e7135754db
+  AWSDynamoDB: e6fc88dca72b2efee4492729d96ed945b9f3a224
+  AWSEC2: 357263a041beeb42083faeb4d314eec2cab28165
+  AWSElasticLoadBalancing: 50dbb109ae332101f9263ea130e5766cbd820ee0
+  AWSiOSSDKv2: bc72f44da320b5f3a84659e8f4aa8efe19324a5b
+  AWSIoT: e932e22992b8fe0fa5a41ce2de60d8a284396603
+  AWSKinesis: 7e449258e9f7efa7d54c407a7136120ab033115c
+  AWSLambda: 87ec46e9fc53409dcbe28b70a6ac86a27b87275b
+  AWSLex: 948c7cfba9a4d1c110b1e16df4fc7cb5b7928887
+  AWSMachineLearning: 8a8b091506fd54b6939334e18aefc38316541328
+  AWSMobileAnalytics: d149e1d0983df810f59860dfa132f1ac9d97bc5a
+  AWSPinpoint: ef0419b2f69e86e79f6cabe60c1527e719ce7bbe
+  AWSPolly: 1534d56737c4c966d9c449aa8c9d76ae3cc57d9e
+  AWSRekognition: bf58f4a1b46248b289bb0eff7832be61ec4d3cc4
+  AWSS3: fef6aa8f8f625df8f67f1b6574fe761f3a4ddc99
+  AWSSES: 2ae1cedd965aaffc7f8be9c7b2cf5e236f7b795b
+  AWSSimpleDB: c4f1f0f2c148b851e24f9c0bd43a89bebf978e72
+  AWSSNS: f7eb9a5c19410e2a0164febc2cd665831c1cd26c
+  AWSSQS: c13f3196915c83cd2b9453412e0db699d7d2ea5f
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  GoogleAnalytics-iOS-SDK: 13241762fa4aea845eb75bef6c0da3427a26e7b3
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  PayPal-iOS-SDK: 774ac7de2d7c3b0ee7e8a35f8b347fd07787321b
+
+PODFILE CHECKSUM: cd545c512bad3eaa6c87729812456672f61ae8cf
+
+COCOAPODS: 1.1.1
